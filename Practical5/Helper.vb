@@ -5,6 +5,10 @@
         area = 0.5 * a * b
 
         Return area
+
+        'this is the edit part
+        ' just let you understand
+
     End Function
 
     Public Function GetCircleArea(radius As Double)

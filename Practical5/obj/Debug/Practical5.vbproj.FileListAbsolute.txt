@@ -20,3 +20,7 @@ F:\BAIT Visual Programming\Practical\Practical5\Practical5\obj\Debug\Practical5.
 F:\BAIT Visual Programming\Practical\Practical5\Practical5\obj\Debug\Practical5.vbproj.GenerateResource.Cache
 F:\BAIT Visual Programming\Practical\Practical5\Practical5\obj\Debug\Practical5.Form2.resources
 F:\BAIT Visual Programming\Practical\Practical5\Practical5\obj\Debug\Practical5.Form3.resources
+C:\Users\Song\Desktop\Practical5\Practical5\bin\Debug\Practical5.exe.config
+C:\Users\Song\Desktop\Practical5\Practical5\obj\Debug\Practical5.exe
+C:\Users\Song\Desktop\Practical5\Practical5\obj\Debug\Practical5.xml
+C:\Users\Song\Desktop\Practical5\Practical5\obj\Debug\Practical5.pdb
